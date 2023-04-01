@@ -18,7 +18,13 @@ Here are some ideas to get you started:
 </div>
 <div  align="center" >
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=green" alt=""/>
+  <h1>
+  Добро пожаловать на мою страничку!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
+
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -48,4 +54,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruslan2321&theme=dark&hide_border=true&locale=ru&mode=weekly&layout=compact&background=EB545400)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
+<div align="center">
+  <img src="https://media4.giphy.com/media/JfWPpXN0Dd4rEjYcH5/giphy.gif?cid=ecf05e47x2ikdahwpn9t7wbmfl4dgmkxi0mm8jbcz9ljbnzn&rid=giphy.gif&ct=s" alt=""/>
+</div>
