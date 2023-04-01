@@ -20,14 +20,14 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=green" alt=""/>
   <h1>
   Добро пожаловать на мою страничку!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media2.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e4708wr1v5w38ows5hqnz1wzoppyyraw8zfg6vi5i3d&rid=giphy.gif&ct=s" width="30px"/>
 </h1>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+   <img src="https://media0.giphy.com/media/1iNIkQBAwEkUuTpikf/giphy.gif?cid=ecf05e477y8q301l4855ndsi8bwqvhw1cwzgysqeyyloxjw9&rid=giphy.gif&ct=g" width="50%"/>
 </div>
 
 ---
