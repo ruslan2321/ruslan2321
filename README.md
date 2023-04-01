@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ruslan2321/ruslan2321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pi9azisco33ib9eju0hl1bfwlbbctdrzhxoozcy5&rid=giphy.gif&ct=g" width="100"/>
+  <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47pi9azisco33ib9eju0hl1bfwlbbctdrzhxoozcy5&rid=giphy.gif&ct=g" width="100%"/>
 </div>
